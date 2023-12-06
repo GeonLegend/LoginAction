@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "firstName": "Leshia",
+    "lastName": "Pinniger",
+    "email": "leshiapinniger@gmail.com",
+    "password": "cH9404){|xq",
+    "gender": "F",
+    "customer": "admin",
+    "avatar": "https://robohash.org/omnisquiipsa.png?size=100x100&set=set1"
+  },
+  {
+    "id": 2,
+    "firstName": "Madelene",
+    "lastName": "Lanston",
+    "email": "madelenelanston@gmail.com",
+    "password": "wD5255,){+",
+    "gender": "F",
+    "customer": "admin",
+    "avatar": "https://robohash.org/illoquamsunt.png?size=100x100&set=set1"
+  },
+  {
+    "id": 3,
+    "firstName": "Melinda",
+    "lastName": "Meharry",
+    "email": "melindameharry@gmail.com",
+    "password": "pT9371|`f$s#OKaA",
+    "gender": "F",
+    "customer": "admin",
+    "avatar": "https://robohash.org/ipsavoluptatesuscipit.png?size=100x100&set=set1"
+  },
+  {
+    "id": 4,
+    "firstName": "Pauly",
+    "lastName": "Robken",
+    "email": "paulyrobken@gmail.com",
+    "password": "lP2601~?E",
+    "gender": "M",
+    "customer": "admin",
+    "avatar": "https://robohash.org/suntvoluptatemamet.png?size=100x100&set=set1"
+  },
+  {
+    "id": 5,
+    "firstName": "Gay",
+    "lastName": "Graeme",
+    "email": "gaygraeme@gmail.com",
+    "password": "eY0732'@",
+    "gender": "M",
+    "customer": "admin",
+    "avatar": "https://robohash.org/officiaaccusamuseius.png?size=100x100&set=set1"
+  },
+  {
+    "id": 6,
+    "firstName": "Ardisj",
+    "lastName": "Drage",
+    "email": "ardisjdrage@gmail.com",
+    "password": "vN7213!{myYy~",
+    "gender": "F",
+    "customer": "user",
+    "avatar": "https://robohash.org/delenitiautipsa.png?size=100x100&set=set1"
+  },
+  {
+    "id": 7,
+    "firstName": "Bradly",
+    "lastName": "Braunroth",
+    "email": "bradlybraunroth@gmail.com",
+    "password": "rN4033_=`8_ej>wR",
+    "gender": "M",
+    "customer": "user",
+    "avatar": "https://robohash.org/nesciuntdistinctioipsa.png?size=100x100&set=set1"
+  },
+  {
+    "id": 8,
+    "firstName": "Kimball",
+    "lastName": "Brachell",
+    "email": "kimballbrachell@gmail.com",
+    "password": "pX2288(<?vx",
+    "gender": "M",
+    "customer": "user",
+    "avatar": "https://robohash.org/asperioresquibusdamaut.png?size=100x100&set=set1"
+  },
+  {
+    "id": 9,
+    "firstName": "Blinnie",
+    "lastName": "Kilpatrick",
+    "email": "blinniekilpatrick@gmail.com",
+    "password": "sT9880(?",
+    "gender": "F",
+    "customer": "user",
+    "avatar": "https://robohash.org/liberoconsecteturquo.png?size=100x100&set=set1"
+  },
+  {
+    "id": 10,
+    "firstName": "Myrlene",
+    "lastName": "Manclark",
+    "email": "myrlenemanclark@gmail.com",
+    "password": "gW0920&>aOq,o",
+    "gender": "F",
+    "customer": "user",
+    "avatar": "https://robohash.org/dolordoloremquod.png?size=100x100&set=set1"
+  },
+  {
+    "id": 11,
+    "firstName": "Salvatore",
+    "lastName": "Lampl",
+    "email": "salvatorelampl@gmail.com",
+    "password": "rG8913<|i4",
+    "gender": "M",
+    "customer": "user",
+    "avatar": "https://robohash.org/nonsintaspernatur.png?size=100x100&set=set1"
+  },
+  {
+    "id": 12,
+    "firstName": "Darice",
+    "lastName": "Ropp",
+    "email": "dariceropp@gmail.com",
+    "password": "tX6252>%{s<xxt89",
+    "gender": "F",
+    "customer": "user",
+    "avatar": "https://robohash.org/distinctioadipiscicum.png?size=100x100&set=set1"
+  },
+  {
+    "id": 13,
+    "firstName": "Bertrand",
+    "lastName": "Enrigo",
+    "email": "bertrandenrigo@gmail.com",
+    "password": "rC3154*_>",
+    "gender": "M",
+    "customer": "user",
+    "avatar": "https://robohash.org/illoiureeaque.png?size=100x100&set=set1"
+  },
+  {
+    "id": 14,
+    "firstName": "Tabbie",
+    "lastName": "Skeermor",
+    "email": "tabbieskeermor@gmail.com",
+    "password": "hI1724{*r{T=RP",
+    "gender": "F",
+    "customer": "user",
+    "avatar": "https://robohash.org/occaecativoluptasnisi.png?size=100x100&set=set1"
+  },
+  {
+    "id": 15,
+    "firstName": "Gerardo",
+    "lastName": "Ahlin",
+    "email": "gerardoahlin@gmail.com",
+    "password": "eD0386>*#B",
+    "gender": "M",
+    "customer": "user",
+    "avatar": "https://robohash.org/etquodquis.png?size=100x100&set=set1"
+  },
+  {
+    "id": 16,
+    "firstName": "Audrye",
+    "lastName": "Smeal",
+    "email": "audryesmeal@gmail.com",
+    "password": "nM5842={Rc=oaw",
+    "gender": "F",
+    "customer": "user",
+    "avatar": "https://robohash.org/debitisetconsequatur.png?size=100x100&set=set1"
+  },
+  {
+    "id": 17,
+    "firstName": "Kaleb",
+    "lastName": "Lorent",
+    "email": "kaleblorent@gmail.com",
+    "password": "uN5432'?<1=n",
+    "gender": "M",
+    "customer": "user",
+    "avatar": "https://robohash.org/sedculpafuga.png?size=100x100&set=set1"
+  },
+  {
+    "id": 18,
+    "firstName": "Padget",
+    "lastName": "Daines",
+    "email": "padgetdaines@gmail.com",
+    "password": "oS0518+<9",
+    "gender": "M",
+    "customer": "user",
+    "avatar": "https://robohash.org/aetab.png?size=100x100&set=set1"
+  },
+  {
+    "id": 19,
+    "firstName": "Rowe",
+    "lastName": "Brownscombe",
+    "email": "rowebrownscombe@gmail.com",
+    "password": "aC2121!/YMe",
+    "gender": "F",
+    "customer": "user",
+    "avatar": "https://robohash.org/etetut.png?size=100x100&set=set1"
+  },
+  {
+    "id": 20,
+    "firstName": "Anderson",
+    "lastName": "Tuley",
+    "email": "andersontuley@gmail.com",
+    "password": "bH5880?~nJ",
+    "gender": "M",
+    "customer": "user",
+    "avatar": "https://robohash.org/autemeoset.png?size=100x100&set=set1"
+  },
+  {
+    "id": 21,
+    "firstName": "Edyth",
+    "lastName": "Acory",
+    "email": "edythacory@gmail.com",
+    "password": "xT8496%{=IyBE",
+    "gender": "F",
+    "customer": "user",
+    "avatar": "https://robohash.org/voluptasiurenecessitatibus.png?size=100x100&set=set1"
+  },
+  {
+    "id": 22,
+    "firstName": "Maribeth",
+    "lastName": "Semark",
+    "email": "maribethsemark@gmail.com",
+    "password": "dC7217_+",
+    "gender": "F",
+    "customer": "user",
+    "avatar": "https://robohash.org/etquiamagni.png?size=100x100&set=set1"
+  },
+  {
+    "id": 23,
+    "firstName": "Gavan",
+    "lastName": "Liccardo",
+    "email": "gavanliccardo@gmail.com",
+    "password": "sA5221&(2tU(84(",
+    "gender": "M",
+    "customer": "user",
+    "avatar": "https://robohash.org/doloremquoset.png?size=100x100&set=set1"
+  },
+  {
+    "id": 24,
+    "firstName": "Hastie",
+    "lastName": "Sancraft",
+    "email": "hastiesancraft@gmail.com",
+    "password": "yF9753_?+",
+    "gender": "M",
+    "customer": "user",
+    "avatar": "https://robohash.org/veniamquidemquas.png?size=100x100&set=set1"
+  },
+  {
+    "id": 25,
+    "firstName": "Dannie",
+    "lastName": "Nettle",
+    "email": "dannienettle@gmail.com",
+    "password": "vR8303>}K96o",
+    "gender": "F",
+    "customer": "user",
+    "avatar": "https://robohash.org/rerumdoloremaut.png?size=100x100&set=set1"
+  }
+]

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+</head>
+<body>
+    <header>
+        <h1>Bienvenido</h1>
+        <% if (user) { %>
+            <p>¡Hola <%= user.firstName %> <%= user.lastName %>! Bienvenido de vuelta.</p>
+            <img src="<%= user.avatar %>" alt="User Avatar" style="width: 100px; height: 100px;">
+            <a href="/auth/logout">Cerrar sesión</a>
+        <% } else { %>
+            <p>Inicia sesión</p>
+            <a href="/auth/login">Login</a>
+        <% } %>
+    </header>
+</body>
+</html>
